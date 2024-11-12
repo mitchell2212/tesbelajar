@@ -2,4 +2,5 @@
 echo "terlalu rumit";
 echo "terlalu mudah";
 echo "rapopo";
+echo "terlalu sedih";
 ?>
